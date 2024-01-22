@@ -1,0 +1,8 @@
+.input_divs {
+  display: flex;
+  gap: 20px;
+}
+
+.input_divs div {
+  width: -webkit-fill-available;
+}
